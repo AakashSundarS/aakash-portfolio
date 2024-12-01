@@ -20,15 +20,26 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.svg";
+import angular from "./tech/angular.svg";
+import express from "./tech/express.svg";
+import tensorflow from "./tech/tensorflow.svg";
+import aws from "./tech/aws.svg";
+import flask from "./tech/flask.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import qoruz from "./company/qoruz.svg";
+import goschedule from "./company/goschedule.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import sql2sheet from "./sql2sheet.svg";
+import anywheredrive from "./anywheredrive.svg";
+import sentiment from "./sentiment.svg";
 
 export {
   logo,
@@ -52,11 +63,22 @@ export {
   tailwind,
   typescript,
   threejs,
+  python,
+  angular,
+  express,
+  tensorflow,
+  aws,
+  flask,
   meta,
   shopify,
   starbucks,
   tesla,
+  qoruz,
+  goschedule,
   carrent,
   jobit,
   tripguide,
+  sql2sheet,
+  anywheredrive,
+  sentiment,
 };

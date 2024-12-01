@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Aakash Sundar — Portfolio",
+    fullName: "Aakash Sundar S",
+    email: "saakashsundar007@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Aakash Sundar",
+    p: ["I build scalable backend systems,", "ML models, and data solutions"],
   },
   contact: {
     p: "Get in touch",
@@ -59,7 +59,7 @@ export const config: TConfig = {
       email: { span: "Your Email", placeholder: "What's your email?" },
       message: {
         span: "Your Message",
-        placeholder: "What do you want to say?",
+        placeholder: "Let's get in touch!",
       },
     },
   },
@@ -67,11 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a seasoned Software Developer with over 4 years of experience specializing in backend engineering and data analytics. My expertise spans the MEAN stack, Python, and cloud platforms like AWS and GCP. I excel at developing scalable systems, implementing ML models, and optimizing performance. From enhancing influencer scoring algorithms to architecting microservices, I bring a blend of technical depth and practical problem-solving to every project.`,
     },
     experience: {
       p: "What I have done so far",
@@ -84,11 +80,7 @@ export const config: TConfig = {
     works: {
       p: "My work",
       h2: "Projects.",
-      content: `Following projects showcases my skills and experience through
-    real-world examples of my work. Each project is briefly described with
-    links to code repositories and live demos in it. It reflects my
-    ability to solve complex problems, work with different technologies,
-    and manage projects effectively.`,
+      content: `These projects showcase my expertise in backend development, machine learning, and system architecture. From building data automation tools like SQL2Sheet to implementing secure remote access solutions with AnywhereDrive, each project demonstrates my ability to deliver robust, scalable solutions that solve real business challenges. My work in sentiment analysis and scoring algorithms highlights my proficiency in ML and data analytics.`,
     },
   },
 };
